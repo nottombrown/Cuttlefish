@@ -16,7 +16,7 @@ This repo contains two CSV files. Each row in the CSV has information for a pair
 
 `training_data.csv` has a sample of 3500 pairs. The final column is a boolean that's `TRUE` when the members became friends after their Grouper
 
-`test_data.csv` has a sample of 500 pairs. Your goal is to fill in the empty `members_became_friends` column as accurately as possible.
+`test_data.csv` has a sample of 500 pairs. Your goal is to fill in the empty `members_became_friends` column as accurately as possible. The highest number of correct predictions is the winner.
 
 #### How do I get started?
 
@@ -30,7 +30,7 @@ All grouper members have been anonymized, and several fields have been renamed o
 
 #### What's a cuttlefish?
 
-The best fish. We call him Cthulhu (or Louis for short).
+The [best fish](http://xkcd.com/520/). We call him Cthulhu (or Louis for short).
 
 #### What do I get if I win?
 
